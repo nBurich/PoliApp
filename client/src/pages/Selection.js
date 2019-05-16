@@ -1,0 +1,1 @@
+// this will be set up to redirect the person to the other pages.

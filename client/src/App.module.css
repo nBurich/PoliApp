@@ -1,0 +1,22 @@
+nav {
+  background: black;
+  color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: flex-end;
+}
+ul {
+  display: flex;
+  flex-direction: row;
+}
+li {
+  padding: 15px;
+  list-style: none;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+a:hover {
+  background: lightblue;
+}
